@@ -1,0 +1,1 @@
+{"name":"karta-render","private":true,"dependencies":{"@fontsource/great-vibes":"^5","@fontsource/cormorant":"^5","@fontsource/caveat":"^5","@fontsource/courier-prime":"^5","playwright":"1.47.2"}}
